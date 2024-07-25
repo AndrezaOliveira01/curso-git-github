@@ -4,4 +4,3 @@
 * git checkout -b [nome da nova branch]; (comando via terminal)
 * git chechout [nome da branch];
 * git branch;
-
