@@ -5,3 +5,6 @@
 * git add .;
 * git add [nome da pasta];
 * git commit -m "[texto sobre o commit]";
+* git push;
+* git push --set-upstream origin master;
+* git pull
